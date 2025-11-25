@@ -23405,7 +23405,7 @@ _.d=d},
 aaq(){var s=0,r=A.R(t.wL),q,p,o
 var $async$aaq=A.N(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.aHD(A.fA("http://kmc2323.kamiyama.cc:2323/tweets")),$async$aaq)
+return A.T(A.aHD(A.fA("https://kmc2323.kamiyama.cc/tweets")),$async$aaq)
 case 3:o=b
 if(o.b!==200)throw A.h(A.e2("Failed to fetch tweets"))
 p=J.mH(B.cd.eE(A.aHp(A.aFh(o.e)).eE(o.w)),new A.aar(),t.BB)
@@ -77641,7 +77641,7 @@ return A.P(null,r)}})
 return A.Q($async$qp,r)},
 u3(){var s=0,r=A.R(t.H),q=this,p,o,n,m
 var $async$u3=A.N(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=A.fA("http://kmc2323.kamiyama.cc:2323/submit")
+while(true)switch(s){case 0:p=A.fA("https://kmc2323.kamiyama.cc/submit")
 o=t.N
 n=A.am(["Content-Type","application/x-www-form-urlencoded"],o,o)
 m=A
